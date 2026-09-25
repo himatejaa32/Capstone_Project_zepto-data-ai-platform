@@ -1,0 +1,2 @@
+best_random_forest_parameters,random_forest_oob_score,regression_MAE,regression_RMSE,regression_R2,regression_adjusted_R2
+"{'model__max_depth': 5, 'model__max_features': 'sqrt', 'model__n_estimators': 200}",0.8213783403656821,20.669973608352663,42.44240378182529,0.3248142140256356,0.3051867202473111
